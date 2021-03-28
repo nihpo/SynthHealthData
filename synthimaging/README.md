@@ -4,12 +4,19 @@ There seems to be a scarcity of scientifically-valid yet synthetic medical image
 
 We're exploring the business value of building synthetic, unencumbered Electronic Data Capture ("EDC") datasets at scale.
 
-![Synth imaging](Synth_Imaging.png)
-
 The initial phases of this project are:
-a.) Identify the 05 most common disease targets for clinical trials that use imaging.
-b.) Generate synthetic images (both DICOM as well as JPEG) for those disease targets.
-c.) Integrate the SynthImaging output files with our current [SynthSubmission](/synthsubmission) work.
+* Identify the 05 most common disease targets for clinical trials that use imaging.
+* Generate synthetic images (both DICOM as well as JPEG) for those disease targets.
+* Integrate the SynthImaging output files with our current [SynthSubmission](/synthsubmission) work.
+
+There are massive amounts of freely-available, unencumbered real imaging data:
+* [University of South Florida's "Digital Database for Screening Mammography"](http://www.eng.usf.edu/cvprg/Mammography/Database.html)
+* [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
+
+
+Our plan is to leverage that real imaging data to then programmatically generate synthetic imaging files.
+
+![Synth imaging](Synth_Imaging.png)
 
 Please [contact José](mailto:Jose.Lacal@NIHPO.com?subject=SynthImaging%20inquiry.) if your organization would like to fund this work. 
 

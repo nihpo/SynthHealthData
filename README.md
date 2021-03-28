@@ -56,7 +56,7 @@ With no copyright, legal, privacy, regulatory blocks.
 NIHPO is working towards a full, end-to-end “Computable Clinical Trial Data Platform”
 
 
-## Stage I: SynthPHR
+## Stage I: Synthetic Personal Health Records
 
 User can generate Synthetic Personal Health Records ("SynthPHRs") on demand, at scale.
 
@@ -70,7 +70,7 @@ Please see the [SynthPHR](/synthphr) section for more details.
 
 
 
-## Stage II: SynthTrial
+## Stage II: Synthetic Clinical Trial
 
 User runs the pre-generated synthetic cohorts through a Synthetic Clinical Trial.
 
@@ -86,7 +86,7 @@ The generated SynthTrial files can be downloaded.
 Please see the [SynthTrial](/synthtrial) section for more details.
 
 
-## Stage III: SynthSubmission
+## Stage III: Synthetic Clinical Trial Submission
 
 User selects a pre-defined SynthTrial and builds a Docker container with a full "Computable Clinical Trial Submission".
 
@@ -104,6 +104,22 @@ Please see the [SynthSubmission](/synthsubmission) section for more details.
 Users will be able to boot the Docker container in Azure, as a full self-contained regulatory submission.
 
 ![Azure hosting Synthetic Submissions](SynthHealthData_04.png)
+
+
+## Stage IV: Synthetic Electronic Data Capture ("SynthEDC")
+
+We're exploring the business value of building synthetic, unencumbered Electronic Data Capture ("EDC") datasets at scale.
+
+Please see the [SynthEDC](/synthedc) section for more details.
+
+
+## Stage V: Synthetic Medical Imaging ("SynthImaging")
+
+There seems to be a scarcity of scientifically-valid yet synthetic medical images.
+
+We're exploring the business value of building synthetic, unencumbered Electronic Data Capture ("EDC") datasets at scale.
+
+Please see the [SynthImaging](/synthimaging) section for more details.
 
 
 ## User Benefits
