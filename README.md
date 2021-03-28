@@ -80,7 +80,7 @@ Please see the [SynthSubmission](/synthsubmission) section for more details.
 
 Users will be able to boot the Docker image in Azure, as a full self-contained regulatory submission.
 
-![Azure hosting Synthetic Submissions](SynthHealthData_04.png))
+![Azure hosting Synthetic Submissions](SynthHealthData_04.png)
 
 ## User Benefits
 
