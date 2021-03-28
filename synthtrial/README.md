@@ -12,13 +12,13 @@
 <table style="width:100%">
     <tr>
         <th>Domain</th>
-        <th>CAV File</th>
+        <th>CSV File</th>
         <th>SAS File</th>
     </tr>
     <tr>
         <td>AE</td>
         <td><a href="SDTM_1000/csv_files/AE.csv">AE.csv</a></td>
-        <td>[AE.csv](SDTM_1000/csv_files/AE.xpt)</td>
+        <td><a href="SDTM_1000/csv_files/AE.xpt">AE.xpt</a><</td>
     </tr>
     <tr>
         <td>AG</td>
