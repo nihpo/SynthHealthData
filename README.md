@@ -89,6 +89,8 @@ Accessible through a web browser, hosted in Azure, with no IT intervention.
 How many hours of drudgery and copy-and-paste work can we save to staffers in medical device and Pharma companies? 
 
 
-Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html)
+# License Notice
+Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html).
+[Contact NIHPO](Jose.Lacal@NIHPO.com) for a commercial license, or if you're interested in licensing a customized version of this platform.
 
 :copyright: 2007-2021 NIHPO, Inc.

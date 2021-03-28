@@ -2,17 +2,26 @@
 
 
 
-And here are 03 full Synthetic Trials, with the corresponding Synthetic PHRs. Including all CDISC SDTM domains. CSV, SAS an SQLite3 database files.
+![BS Domain](CDISC_SDTM_BS.png)
 
-100 Subjects: http://nihpo.com/SDTM_100.zip
+![CO Domain](CDISC_SDTM_BS.png)
 
-1,000 Subjects: http://nihpo.com/SDTM_1000.zip [47 MB]
+## Sample Files
 
-10,000 Subjects: http://nihpo.com/SDTM_10000.zip [471MB]
+Here are 03 full Synthetic Trials, with the corresponding Synthetic PHRs. Including all CDISC SDTM domains. 
+Each package below includes CSV, SAS an SQLite3 database files.
 
-Free SQLite3 viewer: https://sqlitebrowser.org/
+[100 Subjects](http://nihpo.com/SDTM_100.zip)
+
+[1,000 Subjects](http://nihpo.com/SDTM_1000.zip) [47 MB]
+
+[10,000 Subjects](http://nihpo.com/SDTM_10000.zip) [471MB]
+
+[Download the free SQLite3 viewer](https://sqlitebrowser.org/)
 
 
-Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html)
+# License Notice
+Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html).
+[Contact NIHPO](Jose.Lacal@NIHPO.com) for a commercial license, or if you're interested in licensing a customized version of this platform.
 
 :copyright: 2007-2021 NIHPO, Inc.
