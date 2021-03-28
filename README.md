@@ -12,7 +12,10 @@ In this repository you can analyze and download the Python-based software that g
 The platform programmatically generates realistic synthetic patients (“SynthPatients”) that have a complete synthetic Personal Health Record (“SynthPHR”). SynthPatients live in a series of geographically-accurate synthetic cities (“SynthCity”). SynthPatients are then randomly selected to participate in synthetic Clinical Trials (“SynthTrials”).
 Platform users can define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
 
-Once the synthetic Trial is finished, you can generate a Synthetic Submission to a Health Agency.
+Once the Synthetic Trial is finished, you can generate a Synthetic Submission to a Health Agency.
+
+NIHPO's Synthetic Health Data Platform:
+[SynthPHR] => [SynthTrial] => [SytnSubmission]
 
 
 ## Create Unencumbered Synthetic Health Data at Scale
