@@ -19,8 +19,13 @@ Each package below includes CSV, SAS an SQLite3 database files.
 
 [Download the free SQLite3 viewer](https://sqlitebrowser.org/)
 
+# Acknowledgement
+
+We want to acknowledge the guidance and support from the PHUSE TDF Working Group. In particular: Dante Di Tommaso and Peter Schaefer. As well as: Cynthia Stroupe, Jessica Dai, Nancy Brucken, and Alexey Kuznetsov.
+
 
 # License Notice
+
 Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html).
 
 [Contact NIHPO](mailto:Jose.Lacal@NIHPO.com?subject=GitHub%20inquiry.) for a commercial license, or if you're interested in licensing a customized version of this platform.

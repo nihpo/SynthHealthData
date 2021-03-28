@@ -1,0 +1,22 @@
+STUDYID|DOMAIN|ARMCD|ARM|TAETORD|ETCD|ELEMENT|TABRANCH|TATRANS|EPOCH
+Trial Study 134XCP|TA|P|Placebo|1|SCRN|Screen|Randomized B||SCREENING
+Trial Study 134XCP|TA|P|Placebo|2|Placebo|Placebo|||TREATMENT 1
+Trial Study 134XCP|TA|P|Placebo|3|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 1
+Trial Study 134XCP|TA|P|Placebo|4|Placebo|Placebo|||TREATMENT 2
+Trial Study 134XCP|TA|P|Placebo|5|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 2
+Trial Study 134XCP|TA|P|Placebo|6|Placebo|Placebo|||TREATMENT 3
+Trial Study 134XCP|TA|P|Placebo|7|FU|Follow-Up|||FOLLOW-UP
+Trial Study 134XCP|TA|A|A|1|SCRN|Screen|Randomized Placebo||SCREENING
+Trial Study 134XCP|TA|A|A|2|A|A|||TREATMENT 1
+Trial Study 134XCP|TA|A|A|3|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 1
+Trial Study 134XCP|TA|A|A|4|A|A|||TREATMENT 2
+Trial Study 134XCP|TA|A|A|5|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 2
+Trial Study 134XCP|TA|A|A|6|A|A|||TREATMENT 3
+Trial Study 134XCP|TA|A|A|7|FU|Follow-Up|||FOLLOW-UP
+Trial Study 134XCP|TA|B|B|1|SCRN|Screen|Randomized A||SCREENING
+Trial Study 134XCP|TA|B|B|2|B|B|||TREATMENT 1
+Trial Study 134XCP|TA|B|B|3|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 1
+Trial Study 134XCP|TA|B|B|4|B|B|||TREATMENT 2
+Trial Study 134XCP|TA|B|B|5|REST|Rest||If disease progression, go to Follow-up Epoch|WASHOUT 2
+Trial Study 134XCP|TA|B|B|6|B|B|||TREATMENT 3
+Trial Study 134XCP|TA|B|B|7|FU|Follow-Up|||FOLLOW-UP

@@ -1,0 +1,16 @@
+STUDYID|DOMAIN|VISITNUM|VISIT|VISITDY|ARMCD|ARM|TVSTRL|TVENRL
+Trial Study 134XCP|TV|1|Visit_1|10|P|Placebo|Start of Screen Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|2|Visit_2|25|P|Placebo|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
+Trial Study 134XCP|TV|3|Visit_3|40|P|Placebo|1 week after start of first Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|4|Visit_4|65|P|Placebo|1 week after start of second Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|5|Visit_5|90|P|Placebo|1 week after start of third Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|1|Visit_1|10|A|A|Start of Screen Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|2|Visit_2|25|A|A|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
+Trial Study 134XCP|TV|3|Visit_3|40|A|A|1 week after start of first Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|4|Visit_4|65|A|A|1 week after start of second Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|5|Visit_5|90|A|A|1 week after start of third Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|1|Visit_1|10|B|B|Start of Screen Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|2|Visit_2|25|B|B|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
+Trial Study 134XCP|TV|3|Visit_3|40|B|B|1 week after start of first Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|4|Visit_4|65|B|B|1 week after start of second Treatment Epoch|1 hour after start of Visit
+Trial Study 134XCP|TV|5|Visit_5|90|B|B|1 week after start of third Treatment Epoch|1 hour after start of Visit
