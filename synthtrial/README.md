@@ -8,6 +8,9 @@
 
 ## Sample Files
 
+You can download the full [SQLite3 file with 1,000 subjects](/SDTM_1000/SDTM_1000.sqlite3.zip) [26.9 MB]).
+
+And you can also download individual CSV and SAS files.
 
 <table style="width:100%">
     <tr>
@@ -18,21 +21,14 @@
     <tr>
         <td>AE</td>
         <td><a href="SDTM_1000/csv_files/AE.csv">AE.csv</a></td>
-        <td><a href="SDTM_1000/csv_files/AE.xpt">AE.xpt</a><</td>
+        <td><a href="SDTM_1000/xpt_files/AE.xpt">AE.xpt</a></td>
     </tr>
     <tr>
         <td>AG</td>
-        <td>SDTM_1000/csv_files/AG.csv</td>
-        <td>SDTM_1000/csv_files/AG.xpt</td>
+        <td><a href="SDTM_1000/csv_files/AG.csv">AG.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/AG.xpt">AG.xpt</a></td>
     </tr>
 </table> 
-
-
-/SDTM_1000/
-	SDTM_1000.sqlite3.zip [26.9 MB]
-	csv_files/
-	xpt_files/
-
 
 
 /SDTM_1000/csv_files/BE.csv

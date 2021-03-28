@@ -10,6 +10,11 @@ new *drugs* and *medical devices*.
 We empower Business Users to become Citizen Developers.
 
 
+We present a Python-based platform that generates Synthetic CDISC Clinical Trial Data.
+The platform programmatically generates realistic synthetic patients (“SynthPatients”) that have a complete synthetic health record (“SynthPHR”). SynthPatients live in a series of geographically-accurate synthetic cities (“SynthCity”). SynthPatients are then randomly selected to participate in synthetic Clinical Trials (“SynthTrials”).
+Platform users can define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
+
+
 ## Create Unencumbered Synthetic Health Data at Scale
 100% scientifically valid (LOINC, SNOMED-CT)
 
