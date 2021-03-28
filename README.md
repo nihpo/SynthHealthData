@@ -1,4 +1,7 @@
 # NIHPO's Synthetic Health Data Platform
+
+Lifesciences companies need access to unencumbered health data to accelerate their development, testing, and validation processes. Realistic, scientifically-valid yet synthetic health data can help shrink the regulatory approval timeline.
+
 NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life sciences companies* to *reduce the time* it takes to 
 * design, 
 * develop, 
@@ -6,8 +9,6 @@ NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life scienc
 * validate, and
 * obtain regulatory approval for
 new *drugs* and *medical devices*.
-
-In this repository you can analyze and download the Python-based software that generates unencumbered Synthetic Health Data at scale, on demand.
 
 The platform programmatically generates realistic synthetic patients (“SynthPatients”) that have a complete synthetic Personal Health Record (“SynthPHR”). SynthPatients live in a series of geographically-accurate synthetic cities (“SynthCity”). SynthPatients are then randomly selected to participate in synthetic Clinical Trials (“SynthTrials”).
 Platform users can define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
@@ -17,10 +18,11 @@ Once the Synthetic Trial is finished, you can generate a Synthetic Submission to
 NIHPO's Synthetic Health Data Platform:
 [SynthPHR](/synthphr) => [SynthTrial](/synthtrial) => [SynthSubmission](/synthsubmission)
 
+In this repository you can analyze and download the Python-based software that powers this platform.
 
 ## Create Unencumbered Synthetic Health Data at Scale
 
-The synthetic data this code generates is:
+The synthetic data this platform generates is:
 * 100% scientifically valid (LOINC, SNOMED-CT)
 * Includes Real World Data (devices; drugs; US providers)
 
@@ -54,9 +56,7 @@ With no copyright, legal, privacy, regulatory blocks.
 NIHPO is working towards a full, end-to-end “Computable Clinical Trial Data Platform”
 
 
-## SynthPHR
-
-Stage I: Generate 100% random, realistic Synthetic Person
+## Stage I: SynthPHR
 
 User can generate Synthetic Personal Health Records ("SynthPHRs") on demand, at scale.
 
@@ -70,9 +70,7 @@ Please see the [SynthPHR](/synthphr) section for more details.
 
 
 
-## SynthTrial
-
-Stage II: Synthetic Person enrolls in Synthetic Trial
+## Stage II: SynthTrial
 
 User runs the pre-generated synthetic cohorts through a Synthetic Clinical Trial.
 
@@ -88,13 +86,11 @@ The generated SynthTrial files are saved in the user's account. And available fo
 Please see the [SynthTrial](/synthtrial) section for more details.
 
 
-## SynthSubmission
-
-Stage III: Synthetic Submission with results of Synthetic Trial, Synthetic Person PHR
+## Stage III: SynthSubmission
 
 User selects a pre-defined SynthTrial and builds a Docker container with a full "Computable Clinical Trial Submission".
 
-The Docker container will include all the CDISC SDTM files, plus the SynthPHRs, plus other files we're working on.
+The Docker container includes all the CDISC SDTM files, plus the SynthPHRs, plus other files we're working on.
 
 * Fully digital trial data submission 
 * Reviewer analyzes full raw data 
