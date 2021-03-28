@@ -15,7 +15,7 @@ Platform users can define the parameters of a clinical trial and the platform ge
 Once the Synthetic Trial is finished, you can generate a Synthetic Submission to a Health Agency.
 
 NIHPO's Synthetic Health Data Platform:
-[SynthPHR] => [SynthTrial] => [SytnSubmission]
+[SynthPHR](/synthphr) => [SynthTrial](/synthtrial) => [SynthSubmission](/synthsubmission)
 
 
 ## Create Unencumbered Synthetic Health Data at Scale
