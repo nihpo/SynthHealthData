@@ -1,4 +1,5 @@
-# SynthSubmission
+# Synthetic Regulatory Submission ("SynthSubmission")
+
 
 
 “Executable Submission Package” Docker image

@@ -62,7 +62,7 @@ User can generate Synthetic Personal Health Records ("SynthPHRs") on demand, at 
 
 User can create synthetic cohorts at will: assign gender distribution; define age ranges; select countries; include / exclude pre-existing disease types; etc.
 
-The generated SynthPHR files are saved in the user's account. And available for download.
+The generated SynthPHR files can be downloaded.
 
 ![Synthethic PHR diagram](SynthHealthData_01.png)
 
@@ -77,9 +77,9 @@ User runs the pre-generated synthetic cohorts through a Synthetic Clinical Trial
 Select a pre-defined "Synthetic PHR" created above, define a clinical trial (arms, phases, visits, etc.), and "run" the cohort through the trial.
 User will be able to re-run the same cohort through as many trials as needed.
 
-The system will generate the full output for a trial (CDISC-formatted files, in both CSV and SAS format).
+The system generates the full output for a trial (CDISC-formatted files, in both CSV and SAS format).
 
-The generated SynthTrial files are saved in the user's account. And available for download.
+The generated SynthTrial files can be downloaded.
 
 ![Synthetic Trial diagram](SynthHealthData_02.png)
 

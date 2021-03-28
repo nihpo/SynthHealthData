@@ -1,4 +1,5 @@
-# Synthetic PHR
+# Synthetic Personal Health Records ("SynthPHR")
+
 
 
 Complete Personal Health Record (“PHR”):

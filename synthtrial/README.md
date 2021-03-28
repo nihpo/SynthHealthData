@@ -1,4 +1,4 @@
-# SynthTrial
+# Synthethic Trial ("SynthTrial")
 
 
 
