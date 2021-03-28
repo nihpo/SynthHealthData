@@ -48,6 +48,13 @@ NIHPO is working towards a full, end-to-end “Computable Clinical Trial Data Pl
 
 
 ## SynthPHR
+
+NIHPO Stage I: Generate 100% random, realistic Synthetic Person
+* Unencumbered PHRs
+* Scientifically correct
+* Customized conditions, diseases
+* Define anomalies: test corner cases * Store in database for future use
+
 a.) User generates Synthetic Personal Health Records ("SynthPHRs") on demand, at scale.
 User can create synthetic cohorts at will: assign gender distribution; define age ranges; select countries; include / exclude pre-existing disease types; etc.
 The generated SynthPHR files are saved in the user's account. And available for download.
@@ -57,7 +64,14 @@ The generated SynthPHR files are saved in the user's account. And available for 
 Please see the [SynthPHR](/synthphr) section for more details.
 
 
+
 ## SynthTrial
+
+NIHPO Stage II: Synthetic Person enrolls in Synthetic Trial
+* Defined by Trial Design specs
+* Helps to calibrate all software
+* Validate software ahead of real data * Shrink time it takes to complete data analysis after trial closes.
+
 b.) User runs the pre-generated synthetic cohorts through a Synthetic Clinical Trial.
 Select a pre-defined "Synthetic PHR" created above, define a clinical trial (arms, phases, visits, etc.), and "run" the cohort through the trial.
 User will be able to re-run the same cohort through as many trials as needed.
@@ -71,6 +85,12 @@ Please see the [SynthTrial](/synthtrial) section for more details.
 
 
 ## SynthSubmission
+
+NIHPO Stage III:
+Synthetic Submission with results of Synthetic Trial, Synthetic Person PHR
+* Fully digital trial data submission * Reviewer analyzes full raw data * Runs in self-contained Virtual Machine / Docker image
+* Greatly reduce time to approval
+
 c.) User selects a pre-defined SynthTrial and we'll build a Docker image with a full "Computable Clinical Trial Submission".
 The Docker image will include all the CDISC SDTM files, plus the SynthPHRs, plus other files we're working on.
 
@@ -81,6 +101,7 @@ Please see the [SynthSubmission](/synthsubmission) section for more details.
 Users will be able to boot the Docker image in Azure, as a full self-contained regulatory submission.
 
 ![Azure hosting Synthetic Submissions](SynthHealthData_04.png)
+
 
 ## User Benefits
 

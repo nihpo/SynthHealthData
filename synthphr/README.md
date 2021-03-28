@@ -8,6 +8,7 @@ Complete Personal Health Record (“PHR”):
 * Lab Results: LOINC
 * JSON, SQLite3 output. Could generate HL7, FHIR.
 
+[Sample Synthetic PHR file in JSON format](http://nihpo.com/synthphr.json)
 
 ## Sections
 

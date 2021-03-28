@@ -1,6 +1,8 @@
 # Synthetic Medical Imaging
 
+There seems to be a scarcity of scientifically-valid yet synthetic medical images.
 
+![Synth imaging](Synth_Imaging.png)
 
 
 # License Notice
