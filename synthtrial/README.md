@@ -14,7 +14,7 @@ And you can also download individual CSV and SAS files.
 
 <table style="width:100%">
     <tr>
-        <th>Domain</th>
+        <th>CDISC SDTM Domain</th>
         <th>CSV File</th>
         <th>SAS File</th>
     </tr>
@@ -28,19 +28,60 @@ And you can also download individual CSV and SAS files.
         <td><a href="SDTM_1000/csv_files/AG.csv">AG.csv</a></td>
         <td><a href="SDTM_1000/xpt_files/AG.xpt">AG.xpt</a></td>
     </tr>
+    <tr>
+        <td>BE</td>
+        <td><a href="SDTM_1000/csv_files/BE.csv">BE.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/BE.xpt">BE.xpt</a></td>
+    </tr>
+    <tr>
+        <td>BS</td>
+        <td><a href="SDTM_1000/csv_files/BS.csv">BS.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/BS.xpt">BS.xpt</a></td>
+    </tr>
+    <tr>
+        <td>CE</td>
+        <td><a href="SDTM_1000/csv_files/CE.csv">CE.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/CE.xpt">CE.xpt</a></td>
+    </tr>
+    <tr>
+        <td>CM</td>
+        <td><a href="SDTM_1000/csv_files/CM.csv">CM.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/CM.xpt">CM.xpt</a></td>
+    </tr>
+    <tr>
+        <td>CO</td>
+        <td><a href="SDTM_1000/csv_files/CO.csv">CO.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/CO.xpt">CO.xpt</a></td>
+    </tr>
+    <tr>
+        <td>CP</td>
+        <td><a href="SDTM_1000/csv_files/CP.csv">CP.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/CP.xpt">CP.xpt</a></td>
+    </tr>
+    <tr>
+        <td>CV</td>
+        <td><a href="SDTM_1000/csv_files/CV.csv">CV.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/CV.xpt">CV.xpt</a></td>
+    </tr>
+    <tr>
+        <td>DA</td>
+        <td><a href="SDTM_1000/csv_files/DA.csv">DA.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/DA.xpt">DA.xpt</a></td>
+    </tr>
+    <tr>
+        <td>DD</td>
+        <td><a href="SDTM_1000/csv_files/DD.csv">DD.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/DD.xpt">DD.xpt</a></td>
+    </tr>
+    <tr>
+        <td>DM</td>
+        <td><a href="SDTM_1000/csv_files/DM.csv">DM.csv</a></td>
+        <td><a href="SDTM_1000/xpt_files/DM.xpt">DM.xpt</a></td>
+    </tr>
 </table> 
 
 
-/SDTM_1000/csv_files/BE.csv
-/SDTM_1000/csv_files/BS.csv
-/SDTM_1000/csv_files/CE.csv
-/SDTM_1000/csv_files/CM.csv
-/SDTM_1000/csv_files/CO.csv
-/SDTM_1000/csv_files/CP.csv
-/SDTM_1000/csv_files/CV.csv
-/SDTM_1000/csv_files/DA.csv
-/SDTM_1000/csv_files/DD.csv
-/SDTM_1000/csv_files/DM.csv
+
 /SDTM_1000/csv_files/DS.csv
 /SDTM_1000/csv_files/DV.csv
 /SDTM_1000/csv_files/EC.csv
