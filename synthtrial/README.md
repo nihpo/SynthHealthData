@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>AE</td>
-        <td>[AE.csv](SDTM_1000/csv_files/AE.csv)</td>
+        <td><a href="SDTM_1000/csv_files/AE.csv">AE.csv</a></td>
         <td>[AE.csv](SDTM_1000/csv_files/AE.xpt)</td>
     </tr>
     <tr>
