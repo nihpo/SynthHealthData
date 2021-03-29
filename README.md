@@ -20,6 +20,27 @@ NIHPO's Synthetic Health Data Platform:
 
 In this repository you can analyze and download the Python-based software that powers this platform.
 
+
+
+
+
+Sponsor:
+* Developing software to test clinical trial data.
+
+Software developer:
+* “Not being part of a pharma company I do not have access to clinical trial data.”
+
+CRO. 
+* “We need data to speed up development of systems.”
+* Creation of test data => speed up data sets?
+* Starting point: “we can’t use clients’ data.”
+
+Requirements:
+* Must be conformant to latest CDISC standard.
+
+
+
+
 ## Create Unencumbered Synthetic Health Data at Scale
 
 The synthetic data this platform generates is:
@@ -136,4 +157,4 @@ Please note that this software is licensed under the [GNU AGPL](https://www.gnu.
 
 [Contact NIHPO](mailto:Jose.Lacal@NIHPO.com?subject=GitHub%20inquiry.) for a commercial license, or if you're interested in licensing a customized version of this platform.
 
-:copyright: 2007-2021 NIHPO, Inc.
+:copyright: 2007-2021 NIHPO, Inc.     Version 29 March 2021.
