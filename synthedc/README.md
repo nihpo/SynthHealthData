@@ -7,7 +7,7 @@ The initial phases of this project are:
 * Generate synthetic EDC files for those 05 packages.
 * Integrate the SynthEDC output files with our current [SynthSubmission](/synthsubmission) work.
 
-Please [contact José](mailto:Jose.Lacal@NIHPO.com?subject=SynthEDC%20inquiry.) if your organization would like to fund this work. 
+Please [contact José](mailto:Jose.Lacal@NIHPO.com?subject=SynthEDC%20inquiry.) if your organization would like to support this work. 
 
 # License Notice
 Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html).

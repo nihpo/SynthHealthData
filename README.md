@@ -10,13 +10,16 @@ NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life scienc
 * obtain regulatory approval for
 new *drugs* and *medical devices*.
 
-The platform programmatically generates realistic synthetic patients (“SynthPatients”) that have a complete synthetic Personal Health Record (“SynthPHR”). SynthPatients live in a series of geographically-accurate synthetic cities (“SynthCity”). SynthPatients are then randomly selected to participate in synthetic Clinical Trials (“SynthTrials”).
-Platform users can define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
+The Platform programmatically generates realistic, 100% scientifically correct, yet fully synthetic people ("SynthPerson").
+For each SynthPerson the platform generates a complete synthetic Personal Health Record ("SynthPHR").
+SynthPatients live in a series of geographically-accurate synthetic cities ("SynthCity"). 
+SynthPatients are then randomly selected to participate in synthetic Clinical Trials ("SynthTrials"). 
+Platform users define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
+Once the Synthetic Trial is generated, users can build the equivalent of a full digital Synthetic Submission ("SynthSubmission") to a Health Agency.
 
-Once the Synthetic Trial is finished, you can generate a Synthetic Submission to a Health Agency.
 
 NIHPO's Synthetic Health Data Platform:
-[SynthPHR](/synthphr) => [SynthTrial](/synthtrial) => [SynthSubmission](/synthsubmission)
+[SynthPHR](/synthphr) => [SynthEDC](/synthedc) => [SynthImaging](/synthimaging) => [SynthTrial](/synthtrial) => [SynthSubmission](/synthsubmission)
 
 In this repository you can analyze and download the Python-based software that powers this platform.
 
@@ -150,6 +153,10 @@ Imagine this: a user will be able to go from zero to a fully computable (synthet
 Accessible through a web browser, hosted in Azure, with no IT intervention.
 
 How many hours of drudgery and copy-and-paste work can we save to staffers in medical device and Pharma companies? 
+
+
+# Why Open Source our Intellectual Property?
+
 
 
 # License Notice

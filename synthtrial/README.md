@@ -1,4 +1,4 @@
-# Synthethic Trial ("SynthTrial")
+# Synthethic Clinical Trial ("SynthTrial")
 
 
 

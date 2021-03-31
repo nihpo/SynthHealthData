@@ -18,7 +18,7 @@ Our plan is to leverage that real imaging data to then programmatically generate
 
 ![Synth imaging](Synth_Imaging.png)
 
-Please [contact José](mailto:Jose.Lacal@NIHPO.com?subject=SynthImaging%20inquiry.) if your organization would like to fund this work. 
+Please [contact José](mailto:Jose.Lacal@NIHPO.com?subject=SynthImaging%20inquiry.) if your organization would like to support this work. 
 
 
 # License Notice

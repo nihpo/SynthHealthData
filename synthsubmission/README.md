@@ -41,6 +41,11 @@ Sponsors will be able to easily share private data with regulator in dynamic, in
 Greatly expedite review and approval process.
 
 
+Trial Master File (TMF).
+The TMF is a collection of the essential documents to record that site has fulfilled its obligations to the sponsor regarding a clinical trial project.
+
+
+
 ## Base Docker Container
 ![Docker container](SynthSubmission_01.png)
 
