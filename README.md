@@ -23,7 +23,7 @@ NIHPO's Synthetic Health Data Platform:
 
 In this repository you can analyze and download the Python-based software that powers this platform.
 
-
+[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
 
 

@@ -319,7 +319,7 @@ Each package below includes CSV, SAS an SQLite3 database files.
 
 # Acknowledgement
 
-NIHPO acknowledges the guidance and support from the PHUSE TDF Working Group. In particular: Dante Di Tommaso and Peter Schaefer. As well as: Nancy Brucken, Jessica Dai, Alexey Kuznetsov, and Cynthia Stroupe.
+NIHPO acknowledges the guidance and support from the PhUSE Test Data Factory (TDF) project. In particular: Dante Di Tommaso and Peter Schaefer. As well as: Nancy Brucken, Jessica Dai, Alexey Kuznetsov, and Cynthia Stroupe.
 
 
 # Why Open Source our Intellectual Property?
