@@ -19,7 +19,7 @@ Once the Synthetic Trial is generated, users can build the equivalent of a full 
 
 
 NIHPO's Synthetic Health Data Platform:
-[SynthPHR](/synthphr) => [SynthEDC](/synthedc) => [SynthImaging](/synthimaging) => [SynthTrial](/synthtrial) => [SynthSubmission](/synthsubmission)
+[SynthPHR](/synthphr) => [SynthEDC](/synthedc) => [SynthImaging](/synthimaging) => [SynthTrial](/synthtrial) => [SynthCRF](/synthcrf) => [SynthSubmission](/synthsubmission)
 
 In this repository you can analyze and download the Python-based software that powers this platform.
 
@@ -110,6 +110,7 @@ The generated SynthTrial files can be downloaded.
 Please see the [SynthTrial](/synthtrial) section for more details.
 
 
+
 ## Stage III: Synthetic Clinical Trial Submission
 
 User selects a pre-defined SynthTrial and builds a Docker container with a full "Computable Clinical Trial Submission".
@@ -130,6 +131,7 @@ Users will be able to boot the Docker container in Azure, as a full self-contain
 ![Azure hosting Synthetic Submissions](SynthHealthData_04.png)
 
 
+
 ## Stage IV: Synthetic Electronic Data Capture ("SynthEDC")
 
 We're exploring the business value of building synthetic, unencumbered Electronic Data Capture ("EDC") datasets at scale.
@@ -137,7 +139,16 @@ We're exploring the business value of building synthetic, unencumbered Electroni
 Please see the [SynthEDC](/synthedc) section for more details.
 
 
-## Stage V: Synthetic Medical Imaging ("SynthImaging")
+
+## Stage V: Synthetic Case Report Form ("SynthCRF")
+
+..
+
+Please see the [SynthCRF](/synthcrf) section for more details.
+
+
+
+## Stage VI: Synthetic Medical Imaging ("SynthImaging")
 
 There seems to be a scarcity of scientifically-valid yet synthetic medical images.
 
@@ -146,13 +157,16 @@ We're exploring the business value of building synthetic, unencumbered Electroni
 Please see the [SynthImaging](/synthimaging) section for more details.
 
 
+
 ## User Benefits
 
 Imagine this: a user will be able to go from zero to a fully computable (synthetic) regulatory submission in under an hour.
 
 Accessible through a web browser, hosted in Azure, with no IT intervention.
+Or running locally through a Docker container.
 
 How many hours of drudgery and copy-and-paste work can we save to staffers in medical device and Pharma companies? 
+
 
 
 # Why Open Source our Intellectual Property?
