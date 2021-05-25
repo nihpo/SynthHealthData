@@ -1,5 +1,11 @@
 # NIHPO's Synthetic Health Data Platform
 
+## Update 25 May 2021
+The source code, and a docwnloadable Docker image will be available on Monday 01 June 2021.
+Please comem back then.
+
+
+
 Lifesciences companies need access to unencumbered health data to accelerate their development, testing, and validation processes. Realistic, scientifically-valid yet synthetic health data can help shrink the regulatory approval timeline.
 
 NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life sciences companies* to *reduce the time* it takes to 
@@ -18,12 +24,42 @@ Platform users define the parameters of a clinical trial and the platform genera
 Once the Synthetic Trial is generated, users can build the equivalent of a full digital Synthetic Submission ("SynthSubmission") to a Health Agency.
 
 
+![NIHPO's Synthethic Health Data Platform](NIHPO_SynthData.png)
+
+
+Our end goal is a bit ambitious: to build a prediction model where a user can, from a desktop application, model and predict an entire Clinical Trial from chemical compound to market acceptance and revenue. Attached.
+
+
+Our theory is that there is enough Open Data already available to create predictive models of how a particular new chemical compound may behave along the product development and marketing timeline.
+Using prior (historical) data as a reference.
+
+
+NIHPO already started building "Risk Profiles" of both drugs and devices:
+http://nihpo.com/wp-content/uploads/Oxaliplatin.xlsx
+http://nihpo.com/wp-content/uploads/Ramucirumab.xlsx
+http://nihpo.com/wp-content/uploads/edwards_lifesciences.xlsx
+
+
+And here's where the "Prediction Level" right-to-left arrows come in:
+
+### Prediction Level 01:
+Simulate the full regulatory submission package from the chemical structure of the new compound.
+
+### Prediction Level 02:
+Simulate taking a new compound all the way out to regulatory approval.
+
+### Prediction Level 03:
+Simulate the entire life-cycle of a new compound out to the marketing and revenue-producing stage.
+
+
+
 NIHPO's Synthetic Health Data Platform:
 [SynthPHR](/synthphr) => [SynthEDC](/synthedc) => [SynthImaging](/synthimaging) => [SynthTrial](/synthtrial) => [SynthCRF](/synthcrf) => [SynthSubmission](/synthsubmission)
 
 In this repository you can analyze and download the Python-based software that powers this platform.
 
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+
 
 
 
@@ -168,6 +204,12 @@ Or running locally through a Docker container.
 How many hours of drudgery and copy-and-paste work can we save to staffers in medical device and Pharma companies? 
 
 
+# Our Business Model
+NIHPO partners with clients to solve their health data challenges through the use of synthetic data.
+
+We do not charge per hour, or per user. We sign long-term engagements where we bring all our expertise, and all our staff, to the table.
+We customize our tools and services to meet each organization's unique needs. 
+
 
 # Why Open Source our Intellectual Property?
 
@@ -187,4 +229,4 @@ Please note that this software is licensed under the [GNU AGPL](https://www.gnu.
 
 [Contact NIHPO](mailto:Jose.Lacal@NIHPO.com?subject=GitHub%20inquiry.) for a commercial license, or if you're interested in licensing a customized version of this platform.
 
-:copyright: 2007-2021 NIHPO, Inc.     Version 13 April 2021.
+:copyright: 2007-2021 NIHPO, Inc.     Version 25 May 2021.
