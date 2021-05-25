@@ -1,8 +1,8 @@
 # NIHPO's Synthetic Health Data Platform
 
 ## Update 25 May 2021
-The source code, and a docwnloadable Docker image will be available on Monday 01 June 2021.
-Please comem back then.
+The source code, and a downloadable Docker image, will be available on Monday 01 June 2021.
+Please come back then.
 
 
 
