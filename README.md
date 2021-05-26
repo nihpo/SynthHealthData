@@ -25,7 +25,7 @@ Once the Synthetic Trial is generated, users can build the equivalent of a full 
 
 ## A Prediction Engine
 
-[NIHPO's Synthethic Health Data Platform](NIHPO_Synth_Health_Data_Platform.png)
+![NIHPO's Synthethic Health Data Platform](NIHPO_Synth_Health_Data_Platform.png)
 
 Our end goal is a bit ambitious: to build a prediction engine where a user can, from a desktop application, model and predict an entire Clinical Trial from chemical compound to market acceptance and revenue.
 
