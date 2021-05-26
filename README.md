@@ -4,7 +4,7 @@
 The source code, and a downloadable Docker image, will be available on Monday 01 June 2021.
 Please come back then.
 
-
+## About Our Platform
 
 Lifesciences companies need access to unencumbered health data to accelerate their development, testing, and validation processes. Realistic, scientifically-valid yet synthetic health data can help shrink the regulatory approval timeline.
 
@@ -23,12 +23,11 @@ SynthPatients are then randomly selected to participate in synthetic Clinical Tr
 Platform users define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
 Once the Synthetic Trial is generated, users can build the equivalent of a full digital Synthetic Submission ("SynthSubmission") to a Health Agency.
 
+## A Prediction Engine
 
-![NIHPO's Synthethic Health Data Platform](NIHPO_SynthData.png)
+[NIHPO's Synthethic Health Data Platform](NIHPO_Synth_Health_Data_Platform.png)
 
-
-Our end goal is a bit ambitious: to build a prediction model where a user can, from a desktop application, model and predict an entire Clinical Trial from chemical compound to market acceptance and revenue. Attached.
-
+Our end goal is a bit ambitious: to build a prediction engine where a user can, from a desktop application, model and predict an entire Clinical Trial from chemical compound to market acceptance and revenue.
 
 Our theory is that there is enough Open Data already available to create predictive models of how a particular new chemical compound may behave along the product development and marketing timeline.
 Using prior (historical) data as a reference.
@@ -52,8 +51,7 @@ Simulate taking a new compound all the way out to regulatory approval.
 Simulate the entire life-cycle of a new compound out to the marketing and revenue-producing stage.
 
 
-
-NIHPO's Synthetic Health Data Platform:
+## Elements of NIHPO's Synthetic Health Data Platform:
 [SynthPHR](/synthphr) => [SynthEDC](/synthedc) => [SynthImaging](/synthimaging) => [SynthTrial](/synthtrial) => [SynthCRF](/synthcrf) => [SynthSubmission](/synthsubmission)
 
 In this repository you can analyze and download the Python-based software that powers this platform.
@@ -61,7 +59,7 @@ In this repository you can analyze and download the Python-based software that p
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
 
-
+## Intended Users
 
 Sponsor:
 * Developing software to test clinical trial data.

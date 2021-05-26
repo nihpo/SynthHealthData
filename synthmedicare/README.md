@@ -32,6 +32,19 @@ Once the platform is built above, then we can perform simulations and projection
 
 
 
+
+Stage 05: Medicare reimbursements.
+* Analyze who (individual Medicare providers) prescribes each drug in
+the target disease.
+* Build geographical models of prescription patterns.
+Sources: Medicare's PUF data.
+{As you already know, Medicare is the single largest payer of
+pharmaceutical products and healthcare services in the US}.
+
+
+
+
+
 # License Notice
 Please note that this software is licensed under the [GNU AGPL](https://www.gnu.org/licenses/why-affero-gpl.html).
 

@@ -10,4 +10,4 @@ Please note that this software is licensed under the [GNU AGPL](https://www.gnu.
 
 [Contact NIHPO](mailto:Jose.Lacal@NIHPO.com?subject=GitHub%20inquiry.) for a commercial license, or if you're interested in licensing a customized version of this platform.
 
-:copyright: 2007-2021 NIHPO, Inc.     Version 25 May 2021.
+:copyright: 2007-2021 NIHPO, Inc.     Version 26 May 2021.
