@@ -23,6 +23,43 @@ SynthPatients are then randomly selected to participate in synthetic Clinical Tr
 Platform users define the parameters of a clinical trial and the platform generates all SDTM domains for the desired number of subjects.
 Once the Synthetic Trial is generated, users can build the equivalent of a full digital Synthetic Submission ("SynthSubmission") to a Health Agency.
 
+Our work is guided by a close collaboration with executives at pharma companies:
+https://www.pharmiweb.com/press-release/2020-07-06/phuse-deploys-nihpo-platform-of-enriched-open-data-in-microsoft-azure-to-accelerate-covid-19-clinical-research
+
+Our recent PharmaSUG 2021 Presentation
+https://www.pharmasug.org/us/2021/schedule.html
+
+https://www.pharmasug.org/us/2021/papers.html#AD-162
+
+
+Here's a recording of our presentation:
+http://nihpo.com/AD-162.mp4
+
+This is the paper:
+http://nihpo.com/AD-162_PharmaSUG2021_12.pdf
+
+
+
+Know Earlier => Decide Faster
+Custom Data => Focus on Work
+
+* Realistic, unencumbered Synthetic Health Data:
+* Available before First Patient In, Database Lock
+* Custom format, structure meet client's exact needs
+* Data matches client’s existing processes, tools
+* Robust Performance Testing of client’s platform
+* Fully-populated SDTM for Exploratory Analysis
+* Programmatically loaded to Medidata’s Rave EDC
+
+
+## Customization
+the NIHPO Synthetic Health Data Platform is flexible enough to allow us to:
+* Load country-specific terminologies and data.
+* Generate synthetic patient data that matches the format of your existing EMRs / Health Information Systems.
+* Build data to match the specifications of your hospitals' current Health Information Systems.
+
+
+
 ## A Prediction Engine
 
 ![NIHPO's Synthethic Health Data Platform](NIHPO_Synth_Health_Data_Platform.png)
@@ -204,6 +241,8 @@ How many hours of drudgery and copy-and-paste work can we save to staffers in me
 
 # Our Business Model
 NIHPO partners with clients to solve their health data challenges through the use of synthetic data.
+
+We’re not in the business of selling time—we sell momentum for your business. Do you want to haggle over hours, time, and costs, or do you want the ideas that will give momentum to your business?
 
 We do not charge per hour, or per user. We sign long-term engagements where we bring all our expertise, and all our staff, to the table.
 We customize our tools and services to meet each organization's unique needs. 

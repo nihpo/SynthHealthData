@@ -1,4 +1,4 @@
-STUDYID|DOMAIN|IETESTCD|IETEST|IECAT|IESCAT|TIRL|TIVERS
-Trial Study 134XCP|TI|INCL0|Has disease under study|Inclusion Criteria|INCLUSION||
-Trial Study 134XCP|TI|INCL1|Age 21 or greater|Inclusion Criteria|INCLUSION||
-Trial Study 134XCP|TI|EXCL0|Pregnant or lactating|Exclusion Criteria|EXCLUSION||
+STUDYID|DOMAIN|IETESTCD|IETEST|IECAT
+e|TI|INCL1|Has disease under study|INCLUSION
+e|TI|INCL2|Age 21 or greater|INCLUSION
+e|TI|EXCL1|Pregnant or lactating|EXCLUSION
