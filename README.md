@@ -39,8 +39,8 @@ This is the paper:
 http://nihpo.com/AD-162_PharmaSUG2021_12.pdf
 
 
-
 Know Earlier => Decide Faster
+
 Custom Data => Focus on Work
 
 * Realistic, unencumbered Synthetic Health Data:
@@ -52,40 +52,40 @@ Custom Data => Focus on Work
 * Programmatically loaded to Medidata’s Rave EDC
 
 
+
+## Platform Modules
+
+|Module Name | Description | Status|
+--- | --- | ---
+|Chemistry|
+|[SynthCompound](/synthcompound)|Synthetic Compounds|Design phase|
+|Subjects
+|[SynthPerson](/synthperson)|Synthetic Person|Available now|
+|[SynthPHR](/synthphr)|Synthetic Personal Health Record|Available now|
+|[SynthEHR](/synthehr)|Synthetic Electronic Health Record|Design phase|
+|Clinical Trial|
+|[SynthTrial](/synthtrial)
+|[SynthCRF](/synthcrf)
+|[SynthEDC](/synthedc)
+|[SynthImaging](/synthimaging)
+|Regulatory Process|
+|[SynthSubmission](/synthsubmission)|Synthetic Submission|In development|
+|[SynthResultsCT.gov](/synthresultsctgov)|Synthetic results submission to ClinicalTrials.gov|Design phase|
+|[SynthReview](/synthreview)|Synthetic regulatory review|Design phase|
+|Post-market Surveillance|
+|[SynthAERS](/synthaers)|Synthetic pharmaceutical adverse events (AERS)|Design phase|
+|[SynthMAUDE](/synthmaude)|Synthetic medical device adverse events|Prototype phase|
+|Medicare|
+|[SynthMedicare](/synthmedicare)|Synthetic Medicare|Design phase|
+|[SynthBeneficiary](/synthbeneficiary)|Synthetic beneficiary|Design phase|
+|[SynthPrescription](/synthprescription)|Synthetic prescription|Design phase|
+|[SynthProvider](/synthprovider)||Synthetic provider|Design phase|
+
+
 ## Download Docker Image
 
 
-
-|Module Name |Description | Status|
---- | --- | ---
-|Synthetic Chemistry|
-|[SynthCompound](/synthcompound)|Synthetic Compounds|..|
-|Synthetic People|
-|[SynthPerson](/synthperson)|Synthetic Person|..
-
-
-
-
-[SynthPHR](/synthphr)
-[SynthEHR](/synthehr)
-
-[SynthTrial](/synthtrial)
-[SynthCRF](/synthcrf)
-[SynthEDC](/synthedc)
-[SynthImaging](/synthimaging)
-
-[SynthSubmission](/synthsubmission)
-[SynthResultsCT.gov](/synthresultsctgov)
-[SynthReview](/synthreview)
-
-[SynthAERS](/synthaers)
-[SynthMAUDE](/synthmaude)
-
-[SynthMedicare](/synthmedicare)
-[SynthBeneficiary](/synthbeneficiary)
-[SynthPrescription](/synthprescription)
-[SynthProvider](/synthprovider)
-
+[(Docker image usage guide](http://nihpo.com/Usage_of_Docker_Image.pdf)
 
 
 
