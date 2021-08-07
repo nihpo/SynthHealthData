@@ -1,4 +1,4 @@
 STUDYID|DOMAIN|MIDSTYPE|TMDEF|TMRPT
-e|TM|DIAGNOSIS|Initial diagnosis of diabetes, the first time a physician told the subject they had diabetes|NA
-e|TM|HYPOGLYCEMIC EVENT|Hypoglicemic event, the occurrence of a glucose level below (threshold level)|U
-e|TM|HYPERGLYCEMIC EVENT|Hyperglicemic event, the occurrence of a glucose level above (threshold level)|Y
+Study ID|TM|DIAGNOSIS|Initial diagnosis of diabetes, the first time a physician told the subject they had diabetes|
+Study ID|TM|HYPOGLYCEMIC EVENT|Hypoglicemic event, the occurrence of a glucose level below (threshold level)|
+Study ID|TM|HYPERGLYCEMIC EVENT|Hyperglicemic event, the occurrence of a glucose level above (threshold level)|

@@ -1,16 +1,10 @@
 STUDYID|DOMAIN|VISITNUM|VISIT|VISITDY|ARMCD|ARM|TVSTRL|TVENRL
-e|TV|1|Visit_1|10|5-10-P|5mg - 10mg- Placebo|Start of Screen Epoch|1 hour after start of Visit
-e|TV|2|Visit_2|25|5-10-P|5mg - 10mg- Placebo|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
-e|TV|3|Visit_3|40|5-10-P|5mg - 10mg- Placebo|1 week after start of first Treatment Epoch|1 hour after start of Visit
-e|TV|4|Visit_4|65|5-10-P|5mg - 10mg- Placebo|1 week after start of second Treatment Epoch|1 hour after start of Visit
-e|TV|5|Visit_5|90|5-10-P|5mg - 10mg- Placebo|1 week after start of third Treatment Epoch|1 hour after start of Visit
-e|TV|1|Visit_1|10|5-P-10|5mg - Placebo- 10mg|Start of Screen Epoch|1 hour after start of Visit
-e|TV|2|Visit_2|25|5-P-10|5mg - Placebo- 10mg|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
-e|TV|3|Visit_3|40|5-P-10|5mg - Placebo- 10mg|1 week after start of first Treatment Epoch|1 hour after start of Visit
-e|TV|4|Visit_4|65|5-P-10|5mg - Placebo- 10mg|1 week after start of second Treatment Epoch|1 hour after start of Visit
-e|TV|5|Visit_5|90|5-P-10|5mg - Placebo- 10mg|1 week after start of third Treatment Epoch|1 hour after start of Visit
-e|TV|1|Visit_1|10|P-5-10|Placebo - 5mg - 10mg|Start of Screen Epoch|1 hour after start of Visit
-e|TV|2|Visit_2|25|P-5-10|Placebo - 5mg - 10mg|30 minutes before end of Screen Epoch|30 minutes after start of Screen Epoch
-e|TV|3|Visit_3|40|P-5-10|Placebo - 5mg - 10mg|1 week after start of first Treatment Epoch|1 hour after start of Visit
-e|TV|4|Visit_4|65|P-5-10|Placebo - 5mg - 10mg|1 week after start of second Treatment Epoch|1 hour after start of Visit
-e|TV|5|Visit_5|90|P-5-10|Placebo - 5mg - 10mg|1 week after start of third Treatment Epoch|1 hour after start of Visit
+Study ID|TV|1|Visit_1|3|P-5-10|Placebo - 5mg - 10mg|Start of Screen Epoch|1 hour after start of Visit
+Study ID|TV|2|Visit_2|5|P-5-10|Placebo - 5mg - 10mg|30 minutes before end of Screen Epoch|30 minutes after start of Run-in Epoch
+Study ID|TV|3|Visit_3|7|P-5-10|Placebo - 5mg - 10mg|1 week after start of Treatment Epoch|1 hour after start of Visit
+Study ID|TV|1|Visit_1|3|5-P-10|5mg - Placebo- 10mg|Start of Screen Epoch|1 hour after start of Visit
+Study ID|TV|2|Visit_2|5|5-P-10|5mg - Placebo- 10mg|30 minutes before end of Screen Epoch|30 minutes after start of Run-in Epoch
+Study ID|TV|3|Visit_3|7|5-P-10|5mg - Placebo- 10mg|1 week after start of Treatment Epoch|1 hour after start of Visit
+Study ID|TV|1|Visit_1|3|5-10-P|5mg - 10mg- Placebo|Start of Screen Epoch|1 hour after start of Visit
+Study ID|TV|2|Visit_2|5|5-10-P|5mg - 10mg- Placebo|30 minutes before end of Screen Epoch|30 minutes after start of Run-in Epoch
+Study ID|TV|3|Visit_3|7|5-10-P|5mg - 10mg- Placebo|1 week after start of Treatment Epoch|1 hour after start of Visit

@@ -1,4 +1,4 @@
-STUDYID|DOMAIN|IETESTCD|IETEST|IECAT
-e|TI|INCL1|Has disease under study|INCLUSION
-e|TI|INCL2|Age 21 or greater|INCLUSION
-e|TI|EXCL1|Pregnant or lactating|EXCLUSION
+STUDYID|DOMAIN|IETESTCD|IETEST|IECAT|IESCAT|TIRL|TIVERS
+Study ID|TI|INCL1|Has disease under study|INCLUSION|||
+Study ID|TI|INCL2|Age 21 or greater|INCLUSION|||
+Study ID|TI|EXCL1|Pregnant or lactating|EXCLUSION|||

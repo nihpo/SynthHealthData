@@ -1,22 +1,7 @@
 STUDYID|DOMAIN|ETCD|ELEMENT|TESTRL|TEENRL|TEDUR
-e|TE|SCRN|Screen|Informed consent|2 weeks after start of Element|P14D
-e|TE|5|5 mg|First dose of a treatment Epoch, where dose is 5 mg drug|2 week after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|10|10 mg|First dose of a treatment Epoch, where dose is 10 mg drug|2 week after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|P|Placebo|First dose of a treatment Epoch, where dose is placebo|2 weeks after start of Element|P14D
-e|TE|FU|Follow-up|48 hrs after last dose of third treatment Epoch|3 week after start of Element|P21D
-e|TE|SCRN|Screen|Informed consent|2 weeks after start of Element|P14D
-e|TE|5|5 mg|First dose of a treatment Epoch, where dose is 5 mg drug|2 week after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|P|Placebo|First dose of a treatment Epoch, where dose is placebo|2 weeks after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|10|10 mg|First dose of a treatment Epoch, where dose is 10 mg drug|2 week after start of Element|P14D
-e|TE|FU|Follow-up|48 hrs after last dose of third treatment Epoch|3 week after start of Element|P21D
-e|TE|SCRN|Screen|Informed consent|2 weeks after start of Element|P14D
-e|TE|P|Placebo|First dose of a treatment Epoch, where dose is placebo|2 weeks after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|5|5 mg|First dose of a treatment Epoch, where dose is 5 mg drug|2 week after start of Element|P14D
-e|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
-e|TE|10|10 mg|First dose of a treatment Epoch, where dose is 10 mg drug|2 week after start of Element|P14D
-e|TE|FU|Follow-up|48 hrs after last dose of third treatment Epoch|3 week after start of Element|P21D
+Study ID|TE|SCRN|Screen|Informed consent|2 weeks after start of Element|P14D
+Study ID|TE|P|Placebo|First dose of a treatment Epoch, where dose is placebo|2 weeks after start of Element|P14D
+Study ID|TE|5|5 mg|First dose of a treatment Epoch, where dose is 5 mg drug|2 week after start of Element|P14D
+Study ID|TE|10|10 mg|First dose of a treatment Epoch, where dose is 10 mg drug|2 week after start of Element|P14D
+Study ID|TE|REST|Rest|48 hrs after last dose of preceding treatment Epoch|1 week after start of Element|P7D
+Study ID|TE|FU|Follow-up|48 hrs after last dose of third treatment Epoch|3 week after start of Element|P21D

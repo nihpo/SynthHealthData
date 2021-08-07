@@ -1,0 +1,75 @@
+Synth Health Data - Site Structure
+
+
+[Wed 04 August 2021]
+
+We want to provide an "Alternative Reality" to help you conduct all 
+Use different types (and formats) of Synthetic Data (below) to test every area of the drug and medical device development process.
+
+You can use our synthetic data as a placeholder until you receive the real data.
+And you can run as many simulations as you want, from the comfort and privacy of your desktop.
+
+
+Data earlier => test faster.
+Know earlier => decide faster.
+Validate earlier => submit faster.
+
+
+
+
+[Tue 03 August 2021]
+
+Directory | Contents | Topic
++ | - | SynthAERS
++ | - | SynthAnalysis
++ | - | SynthBeneficiary
++ | - | SynthCompound
++ | - | SynthCRF
++ | - | SynthDataSource
++ | - | SynthEDC
++ | - | SynthEHR
++ | - | SynthImaging
++ | - | SynthMAUDE
++ | - | SynthMedicare
++ | - | SynthPerson
++ | - | SynthPHR
++ | - | SynthPrescription
++ | - | SynthProvider
++ | - | SynthRepository
++ | - | SynthResultsCTgov
++ | - | SynthReview
++ | - | SynthSubmission
++ | - | SynthTrial
+
+
+
+= = By phases = =
+
+Market Research:
+* SynthPerson
+* SynthEHR
+* SynthPHR
+
+Novel Compound:
+* SynthCompound
+* SynthDataSource
+* SynthTrial
+* SynthCRF
+* SynthEDC
+* SynthImaging
+
+Regulatory Submission
+* SynthAnalysis
+* SynthSubmission
+* SynthReview
+* SynthRepository
+
+Approval / Clearance:
+* SynthResultsCTgov
+* SynthAERS
+* SynthMAUDE
+* SynthMedicare
+* SynthBeneficiary
+* SynthPrescription
+* SynthProvider
+

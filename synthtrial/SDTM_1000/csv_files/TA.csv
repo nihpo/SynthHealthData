@@ -1,22 +1,22 @@
-STUDYID|DOMAIN|ARMCD|ARM|TAETORD|ETCD|ELEMENT|TABRANCH|EPOCH
-e|TA|5-10-P|5mg - 10mg- Placebo|1|SCRN|Screen|Randomized to 5 mg - 10 mg - Placebo|SCREENING
-e|TA|5-10-P|5mg - 10mg- Placebo|2|5|5 mg||TREATMENT
-e|TA|5-10-P|5mg - 10mg- Placebo|3|REST|Rest||WASHOUT
-e|TA|5-10-P|5mg - 10mg- Placebo|4|10|10 mg||TREATMENT
-e|TA|5-10-P|5mg - 10mg- Placebo|5|REST|Rest||WASHOUT
-e|TA|5-10-P|5mg - 10mg- Placebo|6|P|Placebo||TREATMENT
-e|TA|5-10-P|5mg - 10mg- Placebo|7|FU|Follow-up||FOLLOW-UP
-e|TA|5-P-10|5mg - Placebo- 10mg|1|SCRN|Screen|Randomized to 5 mg - Placebo - 10 mg|SCREENING
-e|TA|5-P-10|5mg - Placebo- 10mg|2|5|5 mg||TREATMENT
-e|TA|5-P-10|5mg - Placebo- 10mg|3|REST|Rest||WASHOUT
-e|TA|5-P-10|5mg - Placebo- 10mg|4|P|Placebo||TREATMENT
-e|TA|5-P-10|5mg - Placebo- 10mg|5|REST|Rest||WASHOUT
-e|TA|5-P-10|5mg - Placebo- 10mg|6|10|10 mg||TREATMENT
-e|TA|5-P-10|5mg - Placebo- 10mg|7|FU|Follow-up||FOLLOW-UP
-e|TA|P-5-10|Placebo - 5mg - 10mg|1|SCRN|Screen|Randomized to Placebo - 5 mg - 10 mg|SCREENING
-e|TA|P-5-10|Placebo - 5mg - 10mg|2|P|Placebo||TREATMENT
-e|TA|P-5-10|Placebo - 5mg - 10mg|3|REST|Rest||WASHOUT
-e|TA|P-5-10|Placebo - 5mg - 10mg|4|5|5 mg||TREATMENT
-e|TA|P-5-10|Placebo - 5mg - 10mg|5|REST|Rest||WASHOUT
-e|TA|P-5-10|Placebo - 5mg - 10mg|6|10|10 mg||TREATMENT
-e|TA|P-5-10|Placebo - 5mg - 10mg|7|FU|Follow-up||FOLLOW-UP
+STUDYID|DOMAIN|ARMCD|ARM|TAETORD|ETCD|ELEMENT|TABRANCH|TATRANS|EPOCH
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|1|SCRN|Screen|Randomized to Placebo - 5 mg - 10 mg||SCREENING
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|2|P|Placebo|||TREATMENT
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|3|REST|Rest|||WASHOUT
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|4|5|5 mg|||TREATMENT
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|5|REST|Rest|||WASHOUT
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|6|10|10 mg|||TREATMENT
+Study ID|TA|P-5-10|Placebo - 5mg - 10mg|7|FU|Follow-up|||FOLLOW-UP
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|1|SCRN|Screen|Randomized to 5 mg - Placebo - 10 mg||SCREENING
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|2|5|5 mg|||TREATMENT
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|3|REST|Rest|||WASHOUT
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|4|P|Placebo|||TREATMENT
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|5|REST|Rest|||WASHOUT
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|6|10|10 mg|||TREATMENT
+Study ID|TA|5-P-10|5mg - Placebo- 10mg|7|FU|Follow-up|||FOLLOW-UP
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|1|SCRN|Screen|Randomized to 5 mg - 10 mg - Placebo||SCREENING
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|2|5|5 mg|||TREATMENT
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|3|REST|Rest|||WASHOUT
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|4|10|10 mg|||TREATMENT
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|5|REST|Rest|||WASHOUT
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|6|P|Placebo|||TREATMENT
+Study ID|TA|5-10-P|5mg - 10mg- Placebo|7|FU|Follow-up|||FOLLOW-UP
