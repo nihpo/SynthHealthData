@@ -20,6 +20,7 @@ Validate earlier => submit faster.
 [Tue 03 August 2021]
 
 Directory | Contents | Topic
++ | - | ./home
 + | - | SynthAERS
 + | - | SynthAnalysis
 + | - | SynthBeneficiary

@@ -8,7 +8,7 @@
 
 ## Sample Files
 
-You can download the full [SQLite3 file with 1,000 subjects](SDTM_1000/SDTM_1000.sqlite3.zip) [26.9 MB]).
+You can download the full [SQLite3 file with 1,000 subjects](SDTM_1000/demo_1000_subjects_10_countries_trial.sqlite3) [26.9 MB]).
 
 And you can also download individual CSV and SAS files, below.
 
@@ -76,7 +76,7 @@ And you can also download individual CSV and SAS files, below.
     <tr>
         <td>DM</td>
         <td><a href="SDTM_1000/csv_files/DM.csv">DM.csv</a></td>
-        <td>Pending</a></td>
+        <td><a href="SDTM_1000/csv_files/DM.xpt">DM.csv</a></td>
     </tr>
     <tr>
         <td>DS</td>

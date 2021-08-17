@@ -1,11 +1,11 @@
-# NIHPO's Synthetic Health Data Platform
+# NIHPO's TrialTwin:tm: Synthetic Health Data Platform
 
 
-## About Our Platform
+## About Our TrialTwin:tm: Platform
 
 Lifesciences companies need access to unencumbered health data to accelerate their development, testing, and validation processes. Realistic, scientifically-valid yet synthetic health data can help shrink the regulatory approval timeline.
 
-NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life sciences companies* to *reduce the time* it takes to 
+NIHPO’s TrialTwin Synthetic Health Data Platform helps *all staff roles* at *life sciences companies* to *reduce the time* it takes to 
 * design, 
 * develop, 
 * test, 
@@ -13,7 +13,7 @@ NIHPO’s Synthetic Health Data Platform helps *all staff roles* at *life scienc
 * obtain regulatory approval for
 new *drugs* and *medical devices*.
 
-The Platform programmatically generates realistic, 100% scientifically correct, yet fully synthetic people ("SynthPerson").
+The TrialTwin Platform programmatically generates realistic, 100% scientifically correct, yet fully synthetic people ("SynthPerson").
 For each SynthPerson the platform generates a complete synthetic Personal Health Record ("SynthPHR").
 SynthPatients live in a series of geographically-accurate synthetic cities ("SynthCity"). 
 SynthPatients are then randomly selected to participate in synthetic Clinical Trials ("SynthTrials"). 
@@ -36,6 +36,7 @@ This is the paper:
 http://nihpo.com/AD-162_PharmaSUG2021_12.pdf
 
 
+
 Know Earlier => Decide Faster
 
 Custom Data => Focus on Work
@@ -54,29 +55,41 @@ Custom Data => Focus on Work
 
 |Module Name | Description | Status|
 --- | --- | ---
-|Chemistry|
-|[SynthCompound](/synthcompound)|Synthetic Compounds|Design phase|
-|Subjects
+|Market Research|
 |[SynthPerson](/synthperson)|Synthetic Person|Available now|
-|[SynthPHR](/synthphr)|Synthetic Personal Health Record|Available now|
 |[SynthEHR](/synthehr)|Synthetic Electronic Health Record|Design phase|
-|Clinical Trial|
-|[SynthTrial](/synthtrial)
+|[SynthPHR](/synthphr)|Synthetic Personal Health Record|Available now|
+
+|Novel Compound|
+|[SynthCompound](/synthcompound)|Synthetic Compounds|Design phase|
+* SynthDataSource
+|[SynthTrial](/synthtrial)|Synthetic Clinical Trial|Available now|
 |[SynthCRF](/synthcrf)
 |[SynthEDC](/synthedc)
 |[SynthImaging](/synthimaging)
-|Regulatory Process|
+
+|Regulatory Submission|
+* SynthAnalysis
 |[SynthSubmission](/synthsubmission)|Synthetic Submission|In development|
-|[SynthResultsCT.gov](/synthresultsctgov)|Synthetic results submission to ClinicalTrials.gov|Design phase|
 |[SynthReview](/synthreview)|Synthetic regulatory review|Design phase|
-|Post-market Surveillance|
+* SynthRepository
+
+|Approval / Clearance|
+|[SynthResultsCT.gov](/synthresultsctgov)|Synthetic results submission to ClinicalTrials.gov|Design phase|
 |[SynthAERS](/synthaers)|Synthetic pharmaceutical adverse events (AERS)|Design phase|
 |[SynthMAUDE](/synthmaude)|Synthetic medical device adverse events|Prototype phase|
-|Medicare|
 |[SynthMedicare](/synthmedicare)|Synthetic Medicare|Design phase|
 |[SynthBeneficiary](/synthbeneficiary)|Synthetic beneficiary|Design phase|
 |[SynthPrescription](/synthprescription)|Synthetic prescription|Design phase|
 |[SynthProvider](/synthprovider)||Synthetic provider|Design phase|
+
+
+
+
+
+
+
+
 
 
 ## Download Docker Image
